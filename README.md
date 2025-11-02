@@ -101,7 +101,7 @@ Want to contribute? Pull requests are welcome!
 
 ## License
 
-This plugin is licensed under the [GPL v2 or later](https://www.gnu.org/licenses/gpl-2.0.html).
+This plugin is licensed under the [GPL v2](LICENSE).
 
 ```
 This program is free software; you can redistribute it and/or modify
